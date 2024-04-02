@@ -1,4 +1,4 @@
-print("Hello World!") # generalni pozdrav
+print("Hallo!") # generalni pozdrav
 
 print("Unesi svoje ime: ")
 ime = input()
