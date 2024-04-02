@@ -5,3 +5,6 @@ ime = input()
 
 print("Pozdrav " + ime + "!") # personalizirani pozdrav
 
+a = int(input("Unesi broj: "))
+print("Kvadrat tog broja je: ", a * a)
+
